@@ -1,6 +1,6 @@
-# SpaMCI-DL: A hybrid deep learning framework for integrated identification of domains and spatially variable genes in spatial transcriptomics
+# DuaST: An Integrated Deep Learning Framework for Spatial Transcriptomics with Cross-Branch Interaction
 
-This repository contains the implementation for [***SpaMCI-DL***]. As the paper is still under review, this repository currently provides key implementation examples demonstrating the core functionality.
+This repository contains the implementation for [***DuaST***]. The paper is still under review.
 Upon paper acceptance, we will:
 
 1.Release the complete codebase  
@@ -11,4 +11,8 @@ Upon paper acceptance, we will:
 
 4.Provide full documentation  
 
-Current Status: The paper has been submitted to [***Research***] and is under review.
+Current Status: The paper has been submitted to [***Journal of Genetics and Genomics***] and is under review.
+
+
+You can contact us through this wechat: 18883879540.
+Welcome to communicate.
