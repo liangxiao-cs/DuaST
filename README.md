@@ -11,7 +11,7 @@ Upon paper acceptance, we will:
 
 4.Provide full documentation  
 
-Current Status: The paper has been submitted to [***Journal of Genetics and Genomics***] and is under review.
+Current Status: The paper has been submitted to [***Research***] and is under review.
 
 
 You can contact us through this wechat: 18883879540.
