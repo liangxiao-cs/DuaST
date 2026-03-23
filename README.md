@@ -3,7 +3,7 @@
 This repository contains the implementation for [***DuaST***]. 
 
 ### Current Status
-The paper has been **accepted** by [***Briefings in Bioinformatics***]. We will release the full codebase within 10 days, including the following updates:
+The paper has been **accepted** by [***Briefings in Bioinformatics***]. **As of 23/03/2026**, we will release the full codebase within 10 days, including: We will release the full codebase within 10 days, including the following updates:
 
 1. Release the complete, runnable codebase  
 2. Add detailed and comprehensive code comments  
