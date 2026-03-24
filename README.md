@@ -8,6 +8,7 @@ The overall framework of DuaST. A. Dual-branch framework. The Spatial-Aware Bran
 ## Example
 To run the project, **simply execute HBC.py directly**.
 All code and functions are integrated into this single file for user convenience.
+Please go to https://www.10xgenomics.com/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0 to download.
 
 Note:
 1. Please replace all **file paths / data addresses** in the code with your own local paths before running.
