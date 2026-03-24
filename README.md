@@ -1,6 +1,6 @@
 # DuaST: An Integrated Deep Learning Framework for Spatial Transcriptomics with Cross-Branch Interaction
 
-This repository contains the implementation for [***DuaST***].
+![](https://github.com/liangxiao-cs/DuaST/blob/main/Fig1.pdf)
 
 ### Current Status
 The paper has been **accepted** by [***Briefings in Bioinformatics***].
