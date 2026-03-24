@@ -2,6 +2,9 @@
 
 ![](https://github.com/liangxiao-cs/DuaST/blob/main/Fig1.png)
 
+## Overview
+The overall framework of DuaST. A. Dual-branch framework. The Spatial-Aware Branch captures neighborhood dependencies through graph-based encoding, and the Non-Spatial Branch extracts topology-agnostic features, providing two complementary views of the data that are subsequently coordinated through contrastive, adversarial, and attention-based interactions. While spatial relevance scoring operates by reconstructing gene expression with a learnable gene-wise weight matrix, leveraging contrastive and adversarial learning yet without involving the attention mechanism. B. Downstream tasks. DuaST’s tasks in spatial domain identification, multi-omics integration, and SVGs detection.
+
 ### Current Status
 The paper has been **accepted** by [***Briefings in Bioinformatics***].
 Starting from **23/03/2026**, we will release the full codebase within 10 days, including:
